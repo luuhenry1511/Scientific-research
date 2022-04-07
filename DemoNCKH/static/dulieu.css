@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+img.anh{display: block; margin-left: auto; margin-right: auto;}
+
+nav a{text-decoration: none;
+	font-family: arial;
+	font-size: 15px;
+}
